@@ -6,6 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#496F8C"
+    android:id="@+id/main"
     tools:context=".MainActivity">
 
     <!-- Game Grid -->
